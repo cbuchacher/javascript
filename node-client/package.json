@@ -1,10 +1,10 @@
 {
-  "name": "@kubernetes/client-node",
-  "version": "0.2.1",
+  "name": "@xavo/kubernetes-client-node",
+  "version": "0.2.1-xavo3",
   "description": "NodeJS client for kubernetes",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubernetes-client/javascript.git"
+    "url": "git+https://github.com/cbuchacher/javascript.git"
   },
   "files": [
     "dist/*.ts",
